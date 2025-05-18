@@ -4,6 +4,7 @@ This project is towards the completion of Group Assignment 3 of the subject '361
 This project is an end-to-end implementation of an AI-powered system to detect fake news articles using Natural Language Processing (NLP) and Machine Learning techniques. It includes model training, evaluation, deployment code, and visualization for insights.
 
 ## Project Structure
+```text
 ai_based_fake_news_detection/
 │
 ├── app.py                           # Streamlit or Flask app for inference
@@ -17,6 +18,7 @@ ai_based_fake_news_detection/
 ├── .devcontainer/
 │   └── devcontainer.json            # VS Code remote container setup
 └── README.md                        # Project overview and instructions
+```
 
 ## Problem Statement
 With the rise of misinformation on the internet, it is increasingly important to develop tools that can automatically distinguish between fake and real news articles. This project aims to build an AI model that can classify news content as Fake or Real based on its textual content.
