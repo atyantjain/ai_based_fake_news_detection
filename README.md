@@ -7,7 +7,7 @@ This project is an end-to-end implementation of an AI-powered system to detect f
 ```text
 ai_based_fake_news_detection/
 │
-├── app.py                           # Streamlit or Flask app for inference
+├── app.py                           # Streamlit app
 ├── AI_2 (1).ipynb                   # Jupyter notebook with data processing & model training
 ├── models/
 │   ├── scaler.pkl                   # Standard scaler for numeric features
