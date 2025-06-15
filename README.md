@@ -1,6 +1,4 @@
 # AI based fake news detection
-This project is towards the completion of Group Assignment 3 of the subject '36121 Artificial Intelligence Principles and Applications - Autumn 2025'
-
 This project is an end-to-end implementation of an AI-powered system to detect fake news articles using Natural Language Processing (NLP) and Machine Learning techniques. It includes model training, evaluation, deployment code, and visualization for insights.
 
 ## Project Structure
